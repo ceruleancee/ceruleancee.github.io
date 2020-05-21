@@ -86,3 +86,8 @@ kramdown:
   show_warnings     : false
   math_engine       : mathjax
   syntax_highlighter: rouge
+
+
+# Social info
+navigation: True # show the navbar links
+twitter: ceruleancee
