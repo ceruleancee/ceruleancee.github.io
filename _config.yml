@@ -91,3 +91,5 @@ kramdown:
 # Social info
 navigation: True # show the navbar links
 twitter: ceruleancee
+
+theme: jekyll-theme-slate
