@@ -10,8 +10,4 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
 
-# Social info
-navigation: True # show the navbar links
-twitter: ceruleancee
-
 theme: jekyll-theme-slate
