@@ -1,7 +1,7 @@
 # Jekyll configuration
 lsi: false
 safe: true
-source: ceruleancee.github.io
+source: cobaltclaudia.github.io
 incremental: false
 highlighter: rouge
 gist:
